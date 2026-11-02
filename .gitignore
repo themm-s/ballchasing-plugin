@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Build output and compiler artifacts
+/build/
+/obj/
+/bin/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.iobj
+*.ipch
+
+# Prebuilt plugin binaries
+/plugins/*.dll
+
+# Local secrets and downloaded replay files
+/data/ballchasing/api_key.txt
+/data/ballchasing/dl/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.part
+data/ballchasing/progress_bar.png
+src/BallchasingReplayPlayer.cpp
+BallchasingReplayPlayer.vcxproj
+userscripts/ballchasing-play-in-game.user.js
