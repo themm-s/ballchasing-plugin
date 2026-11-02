@@ -16,4 +16,4 @@ This folder is the ready-to-share package. It contains the prebuilt BakkesMod pl
 4. Install Tampermonkey and import the userscript from `browser/`.
 5. Refresh ballchasing.com and click **Play in game** next to a replay.
 
-See [INSTRUCTION.md](INSTRUCTION.md) for the full guide and troubleshooting. Keep `api_key.txt` private; it is not included in this package.
+See [INSTRUCTION.md](release/INSTRUCTION_ENG.md) for the full guide and troubleshooting. Keep `api_key.txt` private; it is not included in this package.
